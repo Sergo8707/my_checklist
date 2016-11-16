@@ -16,7 +16,6 @@
 @import url(http://fonts.googleapis.com/css?family=Oswald:400,700|Merriweather:400,300);
 @import "bootstrap-sprockets";
 @import "bootstrap";
-@import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
 
 /* Mixins, variables, etc... */
 
